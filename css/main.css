@@ -15,3 +15,22 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.watermelon {
+  background-color: #e97065;
+  font-family: "Rammetto One", sans-serif;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+  font family: "Gravitas One", serif;
+}
+
+.persimmon {
+  background-color: #e86033;
+  font-family: "Comfortaa", sans-serif;
+}
+
+.paragraph {
+  font-family: "Open Sans", sans-serif;
+}
