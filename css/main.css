@@ -27,12 +27,12 @@ body {
 
 .starfruit {
   background-color: #fbd25e;
-  font family: "Gravitas One", serif;
+  font-family: "Gravitas One", sans-serif;
 }
 
 .persimmon {
   background-color: #e86033;
-  font-family: "Comfortaa", sans-serif;
+  font-family: Comfortaa, sans-serif;
 }
 
 .paragraph {
